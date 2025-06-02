@@ -1,0 +1,1 @@
+export const menuGreeting = "Hello, Odinite! menu";
