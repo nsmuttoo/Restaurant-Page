@@ -9,6 +9,19 @@
     
     
 }
+header{
+    text-align: center;
+    padding: 20px;
+
+}
+header div{
+    padding: 20px;
+    font-size: 50px;
+    font-weight: 700;
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
 
 .contentContainer{
     border-style: solid;

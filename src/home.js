@@ -12,7 +12,7 @@ function createHome(){
     const greetingBox = document.createElement("div")
    const  greetingHead = document.createElement("h1")
    const contact = document.createElement("h5")
-    greetingHead.innerHTML = "Welcome to Burger Restaurant"
+    greetingHead.innerHTML = "Welcome to Evil Burger Restaurant"
     contact.innerHTML = "add: 1234 Burger St ph: 555-555-5555 em: burger@restaurant.ca"
 
 
